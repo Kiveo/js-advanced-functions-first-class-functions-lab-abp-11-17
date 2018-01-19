@@ -4,4 +4,4 @@ function returnFirstTwoDrivers(array) {
   const a1 = array.slice(0,2);
   return a1;
 }
-a2 = returnFirstTwoDrivers();
+const a2 = returnFirstTwoDrivers();
