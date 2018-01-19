@@ -11,3 +11,7 @@ const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 function createFareMultiplier(x) {
   return function(x){return x * 5};
 }
+
+function fareDoubler(double) {
+  return double * 2;
+}
