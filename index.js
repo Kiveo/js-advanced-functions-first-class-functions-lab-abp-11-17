@@ -6,4 +6,4 @@ const returnFirstTwoDrivers = function(array) {return array.slice(0,2) };
 const returnLastTwoDrivers = function(array) {return array.slice(array.length-2) };
 
 //array containing first two functions
-const array1 = [returnFirstTwoDrivers, returnLastTwoDrivers];
+let array1 = [returnFirstTwoDrivers, returnLastTwoDrivers];
