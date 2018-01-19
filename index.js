@@ -18,6 +18,5 @@ function fareDoubler(double) {
 function fareTripler(triple) {return triple * 3 };
 
 function selectDifferentDrivers(arrayOfDrivers, drivers) {
-  let a1 = function => (arrayOfDrivers);
-  return a1;
+  return drivers;
 }
