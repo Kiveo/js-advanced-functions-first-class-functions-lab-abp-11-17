@@ -1,7 +1,7 @@
 // Code your solution in this file!
-const a1 = function(array){
+const a1 = function(array1){
 
-function returnFirstTwoDrivers(ok) {
+function returnFirstTwoDrivers(array) {
   return array.slice(0,2);
 }
 };
